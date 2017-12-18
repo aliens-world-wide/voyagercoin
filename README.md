@@ -1,0 +1,2 @@
+# voyagercoin
+Voyager Coin
